@@ -19,7 +19,8 @@ On that basis my model perfoms accurately with 97% of accuracy to predict the Fa
 ## 🏃‍♂️ Local Installation
 
 1. Drop a ⭐ on the Github Repository. 
-2. Clone the Repo by going to your local Git Client and pushing in the command: 
+2. Fork the repository 
+3. Clone the Repo by going to your local Git Client and pushing in the command: 
 
 ```sh
 https://github.com/naveeramesh/Fake-News-Prediction.git
