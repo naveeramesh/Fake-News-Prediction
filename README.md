@@ -12,6 +12,10 @@ This Machine Learning Algorithm (Logistic Regression) is a Supervised Machine Le
 ## 🎯 Purpose of the Project
 When there are many news articles present in the social world,the people could'nt find which news is real and fake.
 On that basis my model perfoms accurately with 97% of accuracy to predict the Fake and real news
+
+## 📝 Futher changes to be done
+- [ ] Create a real time Web app using Streamlit.
+
 ## 🏃‍♂️ Local Installation
 
 1. Drop a ⭐ on the Github Repository. 
