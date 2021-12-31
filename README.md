@@ -23,6 +23,7 @@ On that basis my model perfoms accurately with 97% of accuracy to predict the Fa
 3. Clone the Repo by going to your local Git Client and pushing in the command: 
 
 
+
 ```sh
 https://github.com/naveeramesh/Fake-News-Prediction.git
 ```
